@@ -1,3 +1,4 @@
 blender/render/frames/
 blender/render/still_*.png
 *.blend1
+blender/render/*.blend
