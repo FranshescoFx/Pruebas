@@ -1,0 +1,16 @@
+{
+  "_nota": "Productos de crédito nombrados en los sitios oficiales. Plazos y montos no están publicados en la página de listado: se muestran solo cuando constan en la fuente.",
+  "productos": [
+    {"entidad":"agricola","categoria":"personal","nombre":"Crédito Personal con orden de descuento","descripcion":"Pagos descontados automáticamente del salario.","url":"https://www.bancoagricola.com/creditos-personas","verificado":"2026-11-22"},
+    {"entidad":"agricola","categoria":"personal","nombre":"Crédito Personal con cargo a cuenta","descripcion":"Cuotas descontadas directamente de tu cuenta.","url":"https://www.bancoagricola.com/creditos-personas","verificado":"2026-11-22"},
+    {"entidad":"agricola","categoria":"consolidacion","nombre":"Crédito Personal con Garantía Hipotecaria","descripcion":"Consolida deudas en una sola cuota y mejora tu liquidez.","url":"https://www.bancoagricola.com/creditos-personas","verificado":"2026-11-22"},
+    {"entidad":"agricola","categoria":"personal","nombre":"Extrafinanciamiento","descripcion":"Crédito adicional al límite de tu tarjeta de crédito.","url":"https://www.bancoagricola.com/creditos-personas","verificado":"2026-11-22"},
+    {"entidad":"agricola","categoria":"vivienda","nombre":"Crédito de Vivienda","descripcion":"Financiamiento a largo plazo en cuotas, individual o mancomunado.","url":"https://www.bancoagricola.com/creditos-personas","verificado":"2026-11-22"},
+    {"entidad":"promerica","categoria":"personal","nombre":"Crédito con Orden Irrevocable de Descuento","descripcion":"Pago mediante descuento de planilla.","url":"https://www.promerica.com.sv/banca-de-personas/creditos-personales/","verificado":"2026-11-22"},
+    {"entidad":"promerica","categoria":"consolidacion","nombre":"Crédito pago en ventanilla","descripcion":"Orientado a consolidación de deudas, traslado de crédito o gastos personales.","url":"https://www.promerica.com.sv/banca-de-personas/creditos-personales/","verificado":"2026-11-22"},
+    {"entidad":"promerica","categoria":"consolidacion","nombre":"Crédito con garantía hipotecaria","descripcion":"Consolidar deudas garantizado con una hipoteca.","url":"https://www.promerica.com.sv/banca-de-personas/creditos-personales/","verificado":"2026-11-22"},
+    {"entidad":"promerica","categoria":"vehiculo","nombre":"Crédito de Vehículo","descripcion":"Financia un porcentaje de la compra del vehículo. Promoción 'Vehículo nuevo' en modelos seleccionados hasta 31-dic-2026.","url":"https://www.promerica.com.sv/banca-de-personas/creditos-personales/","verificado":"2026-11-22"},
+    {"entidad":"promerica","categoria":"personal","nombre":"Crédito para Empleado de Gobierno","descripcion":"Tasa preferencial para empleados del Gobierno Central.","url":"https://www.promerica.com.sv/banca-de-personas/creditos-personales/","verificado":"2026-11-22"},
+    {"entidad":"promerica","categoria":"vivienda","nombre":"Crédito de vivienda / Traslado de hipoteca","descripcion":"Campaña vigente al 31-dic-2026 para crédito de vivienda y traslado de crédito hipotecario.","url":"https://www.promerica.com.sv/banca-de-personas/club-promerica/promociones/","verificado":"2026-11-22"}
+  ]
+}
