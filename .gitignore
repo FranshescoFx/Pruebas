@@ -2,3 +2,10 @@ blender/render/frames/
 blender/render/still_*.png
 *.blend1
 blender/render/*.blend
+
+node_modules/
+.next/
+data/app.db*
+next-env.d.ts
+*.tsbuildinfo
+data/raw/

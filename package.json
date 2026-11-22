@@ -1,0 +1,30 @@
+{
+  "name": "comparador-financiero-sv",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Comparador de ofertas financieras de El Salvador (bancos, financieras y cooperativas)",
+  "scripts": {
+    "predev": "npm run seed",
+    "dev": "next dev",
+    "build": "npm run seed && next build",
+    "start": "next start",
+    "seed": "node scripts/seed.mjs",
+    "ssf": "python3 scripts/ssf_extract.py",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=22.5"
+  },
+  "dependencies": {
+    "next": "15.5.4",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "server-only": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "typescript": "^5.7.0"
+  }
+}
